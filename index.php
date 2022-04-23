@@ -66,5 +66,5 @@ if ($classe == "usuario") {
     }
 }
 
-//666
+//6667
 //require_once "teste/Teste.php" eu toh zuando;
