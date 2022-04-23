@@ -66,4 +66,6 @@ if ($classe == "usuario") {
     }
 }
 
+//afsa tratata
+
 //require_once "teste/Teste.php" eu toh zuando;
