@@ -66,4 +66,6 @@ if ($classe == "usuario") {
     }
 }
 
+//iygvuih
+
 //require_once "teste/Teste.php" eu toh zuando;
